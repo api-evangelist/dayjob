@@ -9,6 +9,17 @@ description: Dayjob is an AI-powered scheduling agent built for waste management
   efficiency gains, tighter time-window hit rates and materially less planning admin. It is a vertical
   logistics application rather than an API platform - no public developer portal, API reference or SDKs
   are published at this time. This profile has been enriched from the company's public website.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
