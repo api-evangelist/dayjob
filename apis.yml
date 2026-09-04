@@ -31,6 +31,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.getdayjob.ai', status: 301, note: 'declared website redirects to https://www.dayjob.ai/ — a different registrable domain (getdayjob.ai -> dayjob.ai), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://www.getdayjob.ai/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/dayjob/refs/heads/main/apis.yml
 x-type: company
